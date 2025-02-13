@@ -83,7 +83,5 @@ npm start
 
 ## 🌐 Live Demo
 
-🔗 [Live Application](https://cycle-store-three.vercel.app/) _(Update when deployed)_
-#Admin 
-Email: ruhitbaidya01@gmail.com Password: 123456
+🔗 [Live Application](https://cycle-store-three.vercel.app/)
 
