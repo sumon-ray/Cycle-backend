@@ -49,6 +49,7 @@ app.use((err: any, req: Request, res: Response, next: NextFunction) => {
     );
   }
 
+  
   const errorResponse = {
     message: isValidationError
       ? 'Validation failed'
